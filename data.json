@@ -1,0 +1,1105 @@
+{
+  "weapons": [
+    {
+      "id": "heavenquaker_spear",
+      "nameEN": "Heavenquaker Spear",
+      "nameCN": "Heavenquaker Spear",
+      "weaponType": "spear",
+      "martialPath": "Bellstrike - Umbra",
+      "skills": [
+        {
+          "id": "heavenquaker_spear_martial",
+          "nameEN": "Sober Sorrow",
+          "nameCN": "Sober Sorrow",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": null
+        },
+        {
+          "id": "heavenquaker_spear_special",
+          "nameEN": "Sweep All",
+          "nameCN": "Sweep All",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": null
+        },
+        {
+          "id": "heavenquaker_spear_light",
+          "nameEN": "Spear - Light Attack",
+          "nameCN": "Spear - Light Attack",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": null
+        },
+        {
+          "id": "heavenquaker_spear_heavy",
+          "nameEN": "Spear - Heavy Attack",
+          "nameCN": "Spear - Heavy Attack",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": null
+        },
+        {
+          "id": "heavenquaker_spear_charged",
+          "nameEN": "Drifting Thrust",
+          "nameCN": "Drifting Thrust",
+          "slotType": "heavy_attack_charged",
+          "color": "skill-charged",
+          "iconUrl": null
+        },
+        {
+          "id": "heavenquaker_spear_conversion",
+          "nameEN": "Spear - Conversion",
+          "nameCN": "Spear - Conversion",
+          "slotType": "dual_weapon",
+          "color": "skill-conversion",
+          "iconUrl": null
+        }
+      ]
+    },
+    {
+      "id": "infernal_twinblades",
+      "nameEN": "Infernal Twinblades",
+      "nameCN": "Infernal Twinblades",
+      "weaponType": "dual_blades",
+      "martialPath": "Bamboocut - Wind",
+      "skills": [
+        {
+          "id": "infernal_twinblades_martial",
+          "nameEN": "Addled Mind",
+          "nameCN": "Addled Mind",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": null
+        },
+        {
+          "id": "infernal_twinblades_special",
+          "nameEN": "Calamity's Greed",
+          "nameCN": "Calamity's Greed",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": null,
+          "followUps": [
+            {
+              "id": "infernal_twinblades_special_2",
+              "nameEN": "Calamity's Greed",
+              "nameCN": "Calamity's Greed",
+              "iconUrl": null
+            }
+          ]
+        },
+        {
+          "id": "infernal_twinblades_light",
+          "nameEN": "Dual Blades - Light Attack",
+          "nameCN": "Dual Blades - Light Attack",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": null
+        },
+        {
+          "id": "infernal_twinblades_light_variant",
+          "nameEN": "Blade of Heaven's Wrath",
+          "nameCN": "Blade of Heaven's Wrath",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": null
+        },
+        {
+          "id": "infernal_twinblades_heavy",
+          "nameEN": "Flamelash",
+          "nameCN": "Flamelash",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": null
+        },
+        {
+          "id": "infernal_twinblades_conversion",
+          "nameEN": "Twinblades - Conversion",
+          "nameCN": "Twinblades - Conversion",
+          "slotType": "dual_weapon",
+          "color": "skill-conversion",
+          "iconUrl": null
+        }
+      ]
+    },
+    {
+      "id": "inkwell_fan",
+      "nameEN": "Inkwell Fan",
+      "nameCN": "Inkwell Fan",
+      "weaponType": "fan",
+      "martialPath": "Silkbind - Jade",
+      "skills": [
+        {
+          "id": "inkwell_fan_martial",
+          "nameEN": "Jadewind Shield",
+          "nameCN": "Jadewind Shield",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": "/images/inkwell-fan-martial.png"
+        },
+        {
+          "id": "inkwell_fan_special",
+          "nameEN": "Peak's Springless Silence",
+          "nameCN": "Peak's Springless Silence",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": "/images/inkwell-fan-special.png"
+        },
+        {
+          "id": "inkwell_fan_light",
+          "nameEN": "Fan - Light Attack",
+          "nameCN": "Fan - Light Attack",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": "/images/fan-light-attack.png"
+        },
+        {
+          "id": "inkwell_fan_heavy",
+          "nameEN": "Fan - Heavy Attack",
+          "nameCN": "Fan - Heavy Attack",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": "/images/fan-heavy-attack.png"
+        },
+        {
+          "id": "inkwell_fan_heavy_airborne",
+          "nameEN": "Moon Shatter Spring",
+          "nameCN": "Moon Shatter Spring",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": null
+        },
+        {
+          "id": "inkwell_fan_light_charged",
+          "nameEN": "Forsaken Fame",
+          "nameCN": "Forsaken Fame",
+          "slotType": "light_attack_charged",
+          "color": "skill-charged",
+          "iconUrl": null
+        },
+        {
+          "id": "inkwell_fan_heavy_charged",
+          "nameEN": "Glow & Flow",
+          "nameCN": "Glow & Flow",
+          "slotType": "heavy_attack_charged",
+          "color": "skill-charged",
+          "iconUrl": null
+        },
+        {
+          "id": "inkwell_fan_conversion",
+          "nameEN": "Fan - Conversion",
+          "nameCN": "Fan - Conversion",
+          "slotType": "dual_weapon",
+          "color": "skill-conversion",
+          "iconUrl": "/images/fan-conversion.png"
+        }
+      ]
+    },
+    {
+      "id": "mortal_rope_dart",
+      "nameEN": "Mortal Rope Dart",
+      "nameCN": "Mortal Rope Dart",
+      "weaponType": "rope_dart",
+      "martialPath": "Bamboocut - Wind",
+      "skills": [
+        {
+          "id": "mortal_rope_dart_martial",
+          "nameEN": "Bladebound Thread",
+          "nameCN": "Bladebound Thread",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": null,
+          "followUps": [
+            {
+              "id": "mortal_rope_dart_martial_2",
+              "nameEN": "Bladebound Thread",
+              "nameCN": "Bladebound Thread",
+              "iconUrl": null
+            }
+          ]
+        },
+        {
+          "id": "mortal_rope_dart_special",
+          "nameEN": "Rodent Rampage",
+          "nameCN": "Rodent Rampa",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": null
+        },
+        {
+          "id": "mortal_rope_dart_light",
+          "nameEN": "Rope Dart - Light Attack",
+          "nameCN": "Rope Dart - Light Attack",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": null
+        },
+        {
+          "id": "mortal_rope_dart_light_variant",
+          "nameEN": "Coiled Dragon",
+          "nameCN": "Coiled Dragon",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": null
+        },
+        {
+          "id": "mortal_rope_dart_heavy",
+          "nameEN": "Rodent's Resilience",
+          "nameCN": "Rodent's Resilience",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": null,
+          "followUps": [
+            {
+              "id": "mortal_rope_dart_heavy_2",
+              "nameEN": "Rodent's Resilience",
+              "nameCN": "Rodent's Resilience",
+              "iconUrl": null
+            }
+          ]
+        },
+        {
+          "id": "mortal_rope_dart_conversion",
+          "nameEN": "Rope Dart - Conversion",
+          "nameCN": "Rope Dart - Conversion",
+          "slotType": "dual_weapon",
+          "color": "skill-conversion",
+          "iconUrl": null
+        }
+      ]
+    },
+    {
+      "id": "nameless_spear",
+      "nameEN": "Nameless Spear",
+      "nameCN": "Nameless Spear",
+      "weaponType": "spear",
+      "martialPath": "Bellstrike - Splendor",
+      "skills": [
+        {
+          "id": "nameless_spear_martial",
+          "nameEN": "Qiankun's Lock",
+          "nameCN": "Qiankun's Lock",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": null
+        },
+        {
+          "id": "nameless_spear_special",
+          "nameEN": "Legion Crusher",
+          "nameCN": "Legion Crusher",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": null
+        },
+        {
+          "id": "nameless_spear_light",
+          "nameEN": "Spear - Light Attack",
+          "nameCN": "Spear - Light Attack",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": null
+        },
+        {
+          "id": "nameless_spear_heavy",
+          "nameEN": "Spear - Heavy Attack",
+          "nameCN": "枪 - 重攻击",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": null
+        },
+        {
+          "id": "nameless_spear_charged",
+          "nameEN": "Storm Dance",
+          "nameCN": "Storm Dance",
+          "slotType": "heavy_attack_charged",
+          "color": "skill-charged",
+          "iconUrl": null
+        },
+        {
+          "id": "nameless_spear_conversion",
+          "nameEN": "Spear - Conversion",
+          "nameCN": "Spear - Conversion",
+          "slotType": "dual_weapon",
+          "color": "skill-conversion",
+          "iconUrl": null
+        }
+      ]
+    },
+    {
+      "id": "nameless_sword",
+      "nameEN": "Nameless Sword",
+      "nameCN": "Nameless Sword",
+      "weaponType": "sword",
+      "martialPath": "Bellstrike - Splendor",
+      "skills": [
+        {
+          "id": "nameless_sword_martial",
+          "nameEN": "Daunting Strike",
+          "nameCN": "Daunting Strike",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": "/images/nameless-sword-martial.png",
+          "followUps": [
+            {
+              "id": "nameless_sword_martial_2",
+              "nameEN": "Relentless Chase",
+              "nameCN": "Relentless Chase",
+              "iconUrl": "/images/nameless-sword-martial-2.png"
+            },
+            {
+              "id": "nameless_sword_martial_3",
+              "nameEN": "Shielding Strike",
+              "nameCN": "Shielding Strike",
+              "iconUrl": "/images/nameless-sword-martial-3.png"
+            }
+          ]
+        },
+        {
+          "id": "nameless_sword_special",
+          "nameEN": "Shadow Step",
+          "nameCN": "Shadow Step",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": "/images/nameless-sword-special.png",
+          "followUps": [
+            {
+              "id": "nameless_sword_special_2",
+              "nameEN": "Sword - Dash",
+              "nameCN": "Sword - Dash",
+              "iconUrl": "/images/nameless-sword-special-2.png"
+            }
+          ]
+        },
+        {
+          "id": "nameless_sword_light",
+          "nameEN": "Sword - Light Attack",
+          "nameCN": "Sword - Light Attack",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": "/images/sword-light-attack.png"
+        },
+        {
+          "id": "nameless_sword_heavy",
+          "nameEN": "Sword - Heavy Attack",
+          "nameCN": "Sword - Heavy Attack",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": "/images/sword-heavy-attack.png"
+        },
+        {
+          "id": "nameless_sword_charged",
+          "nameEN": "Vagrant Sword",
+          "nameCN": "Vagrant Sword",
+          "slotType": "heavy_attack_charged",
+          "color": "skill-charged",
+          "iconUrl": "/images/sword-heavy-attack.png"
+        },
+        {
+          "id": "nameless_sword_conversion",
+          "nameEN": "Sword - Conversion",
+          "nameCN": "Sword - Conversion",
+          "slotType": "dual_weapon",
+          "color": "skill-conversion",
+          "iconUrl": "/images/sword-conversion.png"
+        }
+      ]
+    },
+    {
+      "id": "panacea_fan",
+      "nameEN": "Panacea Fan",
+      "nameCN": "Panacea Fan",
+      "weaponType": "fan",
+      "martialPath": "Silkbind - Deluge",
+      "skills": [
+        {
+          "id": "panacea_fan_martial",
+          "nameEN": "Cloudburst Healing",
+          "nameCN": "Cloudburst Healing",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": null,
+          "followUps": [
+            {
+              "id": "panacea_fan_martial_2",
+              "nameEN": "Endless Cloud",
+              "nameCN": "Endless Cloud",
+              "iconUrl": null
+            }
+          ]
+        },
+        {
+          "id": "panacea_fan_special",
+          "nameEN": "Light Dust After Morning Rain",
+          "nameCN": "Light Dust After Morning Rain",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": null
+        },
+        {
+          "id": "panacea_fan_special_variant",
+          "nameEN": "Resurrection",
+          "nameCN": "Resurrection",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": null
+        },
+        {
+          "id": "panacea_fan_light",
+          "nameEN": "Fourfold Inquiry",
+          "nameCN": "Fourfold Inquiry",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": null
+        },
+        {
+          "id": "panacea_fan_heavy",
+          "nameEN": "Emerald Dewtouch",
+          "nameCN": "Emerald Dewtouch",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": null
+        },
+        {
+          "id": "panacea_fan_conversion",
+          "nameEN": "Fan - Conversion",
+          "nameCN": "扇 - 转换",
+          "slotType": "dual_weapon",
+          "color": "skill-conversion",
+          "iconUrl": null
+        }
+      ]
+    },
+    {
+      "id": "soulshade_umbrella",
+      "nameEN": "Soulshade Umbrella",
+      "nameCN": "Soulshade Umbrella",
+      "weaponType": "umbrella",
+      "martialPath": "Silkbind - Deluge",
+      "skills": [
+        {
+          "id": "soulshade_umbrella_martial",
+          "nameEN": "Floating Grace",
+          "nameCN": "Floating Grace",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": null
+        },
+        {
+          "id": "soulshade_umbrella_special",
+          "nameEN": "Echoes of a Thousand Plants",
+          "nameCN": "Echoes of a Thousand Plants",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": null
+        },
+        {
+          "id": "soulshade_umbrella_light",
+          "nameEN": "Umbrella - Light Attack",
+          "nameCN": "伞 - 轻攻击",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": null
+        },
+        {
+          "id": "soulshade_umbrella_heavy",
+          "nameEN": "Umbrella - Heavy Attack",
+          "nameCN": "伞 - 重攻击",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": null
+        },
+        {
+          "id": "soulshade_umbrella_charged",
+          "nameEN": "Pale Petal",
+          "nameCN": "Pale Petal",
+          "slotType": "heavy_attack_charged",
+          "color": "skill-charged",
+          "iconUrl": null
+        },
+        {
+          "id": "soulshade_umbrella_conversion",
+          "nameEN": "Umbrella - Conversion",
+          "nameCN": "Umbrella - Conversion",
+          "slotType": "dual_weapon",
+          "color": "skill-conversion",
+          "iconUrl": null
+        }
+      ]
+    },
+    {
+      "id": "stormbreaker_spear",
+      "nameEN": "Stormbreaker Spear",
+      "nameCN": "Stormbreaker Spear",
+      "weaponType": "spear",
+      "martialPath": "Stonesplit - Might",
+      "skills": [
+        {
+          "id": "stormbreaker_spear_martial",
+          "nameEN": "Storm Roar",
+          "nameCN": "Storm Roar",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": null
+        },
+        {
+          "id": "stormbreaker_spear_special",
+          "nameEN": "Thunder Shock",
+          "nameCN": "Thunder Shock",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": null
+        },
+        {
+          "id": "stormbreaker_spear_light",
+          "nameEN": "Spear - Light Attack",
+          "nameCN": "Spear - Light Attack",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": null
+        },
+        {
+          "id": "stormbreaker_spear_heavy",
+          "nameEN": "Spear - Heavy Attack",
+          "nameCN": "枪 - 重攻击",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": null
+        },
+        {
+          "id": "stormbreaker_spear_charged",
+          "nameEN": "Fury Spear",
+          "nameCN": "Fury Spear",
+          "slotType": "heavy_attack_charged",
+          "color": "skill-charged",
+          "iconUrl": null
+        },
+        {
+          "id": "stormbreaker_spear_conversion",
+          "nameEN": "Spear - Conversion",
+          "nameCN": "Spear - Conversion",
+          "slotType": "dual_weapon",
+          "color": "skill-conversion",
+          "iconUrl": null
+        }
+      ]
+    },
+    {
+      "id": "strategic_sword",
+      "nameEN": "Strategic Sword",
+      "nameCN": "Strategic Sword",
+      "weaponType": "sword",
+      "martialPath": "Bellstrike - Umbra",
+      "skills": [
+        {
+          "id": "strategic_sword_martial",
+          "nameEN": "Inner Track Slash",
+          "nameCN": "Inner Track Slash",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": "/images/strategic-sword-martial.png",
+          "followUps": [
+            {
+              "id": "strategic_sword_martial_2",
+              "nameEN": "Inner Track Slash",
+              "nameCN": "Inner Track Slash",
+              "iconUrl": null
+            }
+          ]
+        },
+        {
+          "id": "strategic_sword_special",
+          "nameEN": "Inner Balance Strike III",
+          "nameCN": "Inner Balance Strike III",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": "/images/strategic-sword-special.png"
+        },
+        {
+          "id": "strategic_sword_light",
+          "nameEN": "Sword - Light Attack",
+          "nameCN": "Sword - Light Attack",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": "/images/sword-light-attack.png"
+        },
+        {
+          "id": "strategic_sword_heavy",
+          "nameEN": "Sword - Heavy Attack",
+          "nameCN": "Sword - Heavy Attack",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": "/images/sword-heavy-attack.png"
+        },
+        {
+          "id": "strategic_sword_charged",
+          "nameEN": "Second Track Slash",
+          "nameCN": "Second Track Slash",
+          "slotType": "heavy_attack_charged",
+          "color": "skill-charged",
+          "iconUrl": null
+        },
+        {
+          "id": "strategic_sword_conversion",
+          "nameEN": "Sword - Conversion",
+          "nameCN": "Sword - Conversion",
+          "slotType": "dual_weapon",
+          "color": "skill-conversion",
+          "iconUrl": "/images/sword-conversion.png"
+        }
+      ]
+    },
+    {
+      "id": "thundercry_blade",
+      "nameEN": "Thundercry Blade",
+      "nameCN": "Thundercry Blade",
+      "weaponType": "mo_blade",
+      "martialPath": "Stonesplit - Might",
+      "skills": [
+        {
+          "id": "thundercry_blade_martial",
+          "nameEN": "Predator's Shield",
+          "nameCN": "Predator's Shield",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": null
+        },
+        {
+          "id": "thundercry_blade_martial_perception",
+          "nameEN": "Heaven's Shift",
+          "nameCN": "Heaven's Shift",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": null
+        },
+        {
+          "id": "thundercry_blade_special",
+          "nameEN": "Sunrush Gale",
+          "nameCN": "Sunrush Gale",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": null
+        },
+        {
+          "id": "thundercry_blade_light",
+          "nameEN": "Mo Blade - Light Attack",
+          "nameCN": "Mo Blade - Light Attack",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": null
+        },
+        {
+          "id": "thundercry_blade_light_charged",
+          "nameEN": "Galecloud Cleave",
+          "nameCN": "Galecloud Cleave",
+          "slotType": "light_attack_charged",
+          "color": "skill-charged",
+          "iconUrl": null,
+          "followUps": [
+            {
+              "id": "thundercry_blade_light_charged_2",
+              "nameEN": "Mo Blade - Sweeping Attack",
+              "nameCN": "Mo Blade - Sweeping Attack",
+              "iconUrl": null
+            }
+          ]
+        },
+        {
+          "id": "thundercry_blade_heavy",
+          "nameEN": "Mo Blade - Heavy Attack",
+          "nameCN": "Mo Blade - Heavy Attack",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": null
+        },
+        {
+          "id": "thundercry_blade_heavy_charged",
+          "nameEN": "Avalanche",
+          "nameCN": "Avalanche",
+          "slotType": "heavy_attack_charged",
+          "color": "skill-charged",
+          "iconUrl": null,
+          "followUps": [
+            {
+              "id": "thundercry_blade_heavy_charged_2",
+              "nameEN": "Mo Blade - Slam Attack",
+              "nameCN": "Mo Blade - Slam Attack",
+              "iconUrl": null
+            }
+          ]
+        },
+        {
+          "id": "thundercry_blade_conversion",
+          "nameEN": "Mo Blade - Conversion",
+          "nameCN": "Mo Blade - Conversion",
+          "slotType": "dual_weapon",
+          "color": "skill-conversion",
+          "iconUrl": null
+        }
+      ]
+    },
+    {
+      "id": "vernal_umbrella",
+      "nameEN": "Vernal Umbrella",
+      "nameCN": "Vernal Umbrella",
+      "weaponType": "umbrella",
+      "martialPath": "Silkbind - Jade",
+      "skills": [
+        {
+          "id": "vernal_umbrella_martial",
+          "nameEN": "Spring Sorrow",
+          "nameCN": "Spring Sorrow",
+          "slotType": "martial_art",
+          "color": "skill-martial",
+          "iconUrl": null
+        },
+        {
+          "id": "vernal_umbrella_special",
+          "nameEN": "Unfading Flower",
+          "nameCN": "Unfading Flower",
+          "slotType": "special",
+          "color": "skill-special",
+          "iconUrl": null
+        },
+        {
+          "id": "vernal_umbrella_light",
+          "nameEN": "Umbrella - Light Attack",
+          "nameCN": "Umbrella - Light Attack",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": null
+        },
+        {
+          "id": "vernal_umbrella_light_charged",
+          "nameEN": "Spring Away",
+          "nameCN": "Spring Away",
+          "slotType": "light_attack_charged",
+          "color": "skill-charged",
+          "iconUrl": null
+        },
+        {
+          "id": "vernal_umbrella_light_variant",
+          "nameEN": "Bamboo Breeze",
+          "nameCN": "Bamboo Breeze",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": null
+        },
+        {
+          "id": "vernal_umbrella_heavy",
+          "nameEN": "Umbrella - Heavy Attack",
+          "nameCN": "Umbrella - Heavy Attack",
+          "slotType": "heavy_attack",
+          "color": "skill-heavy",
+          "iconUrl": null
+        },
+        {
+          "id": "vernal_umbrella_heavy_variant",
+          "nameEN": "Colorful Phoenix",
+          "nameCN": "Colorful Phoenix",
+          "slotType": "light_attack",
+          "color": "skill-light",
+          "iconUrl": null
+        },
+        {
+          "id": "vernal_umbrella_charged",
+          "nameEN": "Apricot Heaven",
+          "nameCN": "Apricot Heaven",
+          "slotType": "heavy_attack_charged",
+          "color": "skill-charged",
+          "iconUrl": null
+        },
+        {
+          "id": "vernal_umbrella_conversion",
+          "nameEN": "Umbrella - Conversion",
+          "nameCN": "Umbrella - Conversion",
+          "slotType": "dual_weapon",
+          "color": "skill-conversion",
+          "iconUrl": null
+        }
+      ]
+    }
+  ],
+  "mysticSkills": [
+    {
+      "id": "tai_chi",
+      "nameEN": "Tai Chi",
+      "nameCN": "Tai Chi",
+      "category": "offensive",
+      "subCategory": "puzzle",
+      "iconUrl": "/images/mystic/tai-chi.png",
+      "acronym": "TC"
+    },
+    {
+      "id": "meridian_touch",
+      "nameEN": "Meridian Touch",
+      "nameCN": "Meridian Touch",
+      "category": "offensive",
+      "subCategory": "puzzle",
+      "iconUrl": "/images/mystic/meridian-touch.png",
+      "acronym": "MT"
+    },
+    {
+      "id": "celestial_seize",
+      "nameEN": "Celestial Seize",
+      "nameCN": "Celestial Seize",
+      "category": "offensive",
+      "subCategory": "puzzle",
+      "iconUrl": "/images/mystic/celestial-seize.png",
+      "acronym": "CSz"
+    },
+    {
+      "id": "cloud_steps",
+      "nameEN": "Cloud Steps",
+      "nameCN": "Cloud Steps",
+      "category": "offensive",
+      "subCategory": "puzzle",
+      "iconUrl": "/images/mystic/cloud-steps.png",
+      "acronym": "CS"
+    },
+    {
+      "id": "leaping_toad",
+      "nameEN": "Leaping Toad",
+      "nameCN": "Leaping Toad",
+      "category": "offensive",
+      "subCategory": "area_debuff",
+      "iconUrl": "/images/mystic/leaping-toad.png",
+      "acronym": "LT"
+    },
+    {
+      "id": "lions_roar",
+      "nameEN": "Lion's Roar",
+      "nameCN": "Lion's Roar",
+      "category": "offensive",
+      "subCategory": "area_debuff",
+      "iconUrl": "/images/mystic/lions-roar.png",
+      "acronym": "LR"
+    },
+    {
+      "id": "guardian_palm",
+      "nameEN": "Guardian Palm",
+      "nameCN": "Guardian Palm",
+      "category": "offensive",
+      "subCategory": "area_damage",
+      "iconUrl": "/images/mystic/guardian-palm.png",
+      "acronym": "GP"
+    },
+    {
+      "id": "ghost_bind",
+      "nameEN": "Ghost Bind",
+      "nameCN": "Ghost Bind",
+      "category": "offensive",
+      "subCategory": "area_damage",
+      "iconUrl": "/images/mystic/ghost-bind.png",
+      "acronym": "GB"
+    },
+    {
+      "id": "flaming_meteor",
+      "nameEN": "Flaming Meteor",
+      "nameCN": "Flaming Meteor",
+      "category": "offensive",
+      "subCategory": "area_damage",
+      "iconUrl": "/images/mystic/flaming-meteor.png",
+      "acronym": "FM"
+    },
+    {
+      "id": "wolflike_frenzy",
+      "nameEN": "Wolflike Frenzy",
+      "nameCN": "Wolflike Frenzy",
+      "category": "offensive",
+      "subCategory": "single_target_control",
+      "iconUrl": "/images/mystic/wolflike-frenzy.png",
+      "acronym": "WF"
+    },
+    {
+      "id": "talon_strike",
+      "nameEN": "Talon Strike",
+      "nameCN": "Talon Strike",
+      "category": "offensive",
+      "subCategory": "single_target_control",
+      "iconUrl": "/images/mystic/talon-strike.png",
+      "acronym": "TS"
+    },
+    {
+      "id": "yaksha_rush",
+      "nameEN": "Yaksha Rush",
+      "nameCN": "Yaksha Rush",
+      "category": "offensive",
+      "subCategory": "single_target_control",
+      "iconUrl": "/images/mystic/yaksha-rush.png",
+      "acronym": "YR"
+    },
+    {
+      "id": "free_morph",
+      "nameEN": "Free Morph",
+      "nameCN": "Free Morph",
+      "category": "offensive",
+      "subCategory": "single_target_control",
+      "iconUrl": "/images/mystic/free-morph.png",
+      "acronym": "FrM"
+    },
+    {
+      "id": "soaring_spin",
+      "nameEN": "Soaring Spin",
+      "nameCN": "Soaring Spin",
+      "category": "offensive",
+      "subCategory": "single_target_control",
+      "iconUrl": "/images/mystic/soaring-spin.png",
+      "acronym": "SS"
+    },
+    {
+      "id": "dragons_breath",
+      "nameEN": "Dragon's Breath",
+      "nameCN": "Dragon's Breath",
+      "category": "offensive",
+      "subCategory": "single_target_burst",
+      "iconUrl": "/images/mystic/dragons-breath.png",
+      "acronym": "DB"
+    },
+    {
+      "id": "drunken_poet",
+      "nameEN": "Drunken Poet",
+      "nameCN": "Drunken Poet",
+      "category": "offensive",
+      "subCategory": "single_target_burst",
+      "iconUrl": "/images/mystic/drunken-poet.png",
+      "acronym": "DP"
+    },
+    {
+      "id": "dragon_head",
+      "nameEN": "Dragon Head",
+      "nameCN": "Dragon Head",
+      "category": "offensive",
+      "subCategory": "single_target_burst",
+      "iconUrl": "/images/mystic/dragon-head.png",
+      "acronym": "DH"
+    },
+    {
+      "id": "serene_breeze",
+      "nameEN": "Serene Breeze",
+      "nameCN": "Serene Breeze",
+      "category": "offensive",
+      "subCategory": "support",
+      "iconUrl": "/images/mystic/serene-breeze.png",
+      "acronym": "SB"
+    },
+    {
+      "id": "ghostly_steps",
+      "nameEN": "Ghostly Steps",
+      "nameCN": "Ghostly Steps",
+      "category": "offensive",
+      "subCategory": "support",
+      "iconUrl": "/images/mystic/ghostly-steps.png",
+      "acronym": "GS"
+    },
+    {
+      "id": "honking_havoc",
+      "nameEN": "Honking Havoc",
+      "nameCN": "Honking Havoc",
+      "category": "offensive",
+      "subCategory": "support",
+      "iconUrl": "/images/mystic/honking-havoc.png",
+      "acronym": "HH"
+    },
+    {
+      "id": "glow_of_fireflies",
+      "nameEN": "Glow of Fireflies",
+      "nameCN": "Glow of Fireflies",
+      "category": "offensive",
+      "subCategory": "support",
+      "iconUrl": "/images/mystic/glow-of-fireflies.png",
+      "acronym": "GoF"
+    },
+    {
+      "id": "veil_of_stillness",
+      "nameEN": "Veil of Stillness",
+      "nameCN": "Veil of Stillness",
+      "category": "offensive",
+      "subCategory": "support",
+      "iconUrl": "/images/mystic/veil-of-stillness.png",
+      "acronym": "VoS"
+    },
+    {
+      "id": "blinding_mist",
+      "nameEN": "Blinding Mist",
+      "nameCN": "Blinding Mist",
+      "category": "offensive",
+      "subCategory": "support",
+      "iconUrl": "/images/mystic/blinding-mist.png",
+      "acronym": "BM"
+    },
+    {
+      "id": "golden_body",
+      "nameEN": "Golden Body",
+      "nameCN": "Golden Body",
+      "category": "offensive",
+      "subCategory": "support",
+      "iconUrl": "/images/mystic/golden-body.png",
+      "acronym": "GBo"
+    }
+  ],
+  "defensiveActions": [
+    {
+      "id": "parry",
+      "nameEN": "Parry",
+      "nameCN": "Parry",
+      "color": "skill-defensive",
+      "iconUrl": null
+    },
+    {
+      "id": "block",
+      "nameEN": "Block",
+      "nameCN": "Block",
+      "color": "skill-defensive",
+      "iconUrl": null
+    },
+    {
+      "id": "dodge",
+      "nameEN": "Dodge",
+      "nameCN": "Dodge",
+      "color": "skill-defensive",
+      "iconUrl": null
+    },
+    {
+      "id": "perfect_dodge",
+      "nameEN": "Perfect Dodge",
+      "nameCN": "Perfect Dodge",
+      "color": "skill-defensive",
+      "iconUrl": null
+    },
+    {
+      "id": "weapon_scroll",
+      "nameEN": "Weapon Scroll",
+      "nameCN": "Weapon Scroll",
+      "color": "skill-conversion",
+      "iconUrl": null
+    }
+  ],
+  "modifiers": [
+    {
+      "id": "hold",
+      "nameEN": "Hold",
+      "nameCN": "Hold",
+      "symbol": "H"
+    }
+  ],
+  "transitionTypes": [
+    {
+      "id": "link",
+      "nameEN": "Link",
+      "nameCN": "Link",
+      "symbol": ">"
+    },
+    {
+      "id": "cancel",
+      "nameEN": "Cancel",
+      "nameCN": "Cancel",
+      "symbol": "xx"
+    },
+    {
+      "id": "delay",
+      "nameEN": "Delay",
+      "nameCN": "Delay",
+      "symbol": "..."
+    }
+  ]
+}
