@@ -3,7 +3,7 @@
     {
       "id": "heavenquaker_spear",
       "nameEN": "Heavenquaker Spear",
-      "nameCN": "Heavenquaker Spear",
+      "nameCN": "九曲惊神枪",
       "weaponType": "spear",
       "martialPath": "Bellstrike - Umbra",
       "skills": [
@@ -60,7 +60,7 @@
     {
       "id": "infernal_twinblades",
       "nameEN": "Infernal Twinblades",
-      "nameCN": "Infernal Twinblades",
+      "nameCN": "泥梨三垢",
       "weaponType": "dual_blades",
       "martialPath": "Bamboocut - Wind",
       "skills": [
@@ -125,7 +125,7 @@
     {
       "id": "inkwell_fan",
       "nameEN": "Inkwell Fan",
-      "nameCN": "Inkwell Fan",
+      "nameCN": "青山拔笔",
       "weaponType": "fan",
       "martialPath": "Silkbind - Jade",
       "skills": [
@@ -198,7 +198,7 @@
     {
       "id": "mortal_rope_dart",
       "nameEN": "Mortal Rope Dart",
-      "nameCN": "Mortal Rope Dart",
+      "nameCN": "栗子游尘",
       "weaponType": "rope_dart",
       "martialPath": "Bamboocut - Wind",
       "skills": [
@@ -271,7 +271,7 @@
     {
       "id": "nameless_spear",
       "nameEN": "Nameless Spear",
-      "nameCN": "Nameless Spear",
+      "nameCN": "无名枪法",
       "weaponType": "spear",
       "martialPath": "Bellstrike - Splendor",
       "skills": [
@@ -328,7 +328,7 @@
     {
       "id": "nameless_sword",
       "nameEN": "Nameless Sword",
-      "nameCN": "Nameless Sword",
+      "nameCN": "无名剑法",
       "weaponType": "sword",
       "martialPath": "Bellstrike - Splendor",
       "skills": [
@@ -407,7 +407,7 @@
     {
       "id": "panacea_fan",
       "nameEN": "Panacea Fan",
-      "nameCN": "Panacea Fan",
+      "nameCN": "明川药典",
       "weaponType": "fan",
       "martialPath": "Silkbind - Deluge",
       "skills": [
@@ -472,7 +472,7 @@
     {
       "id": "soulshade_umbrella",
       "nameEN": "Soulshade Umbrella",
-      "nameCN": "Soulshade Umbrella",
+      "nameCN": "千香引魂盅",
       "weaponType": "umbrella",
       "martialPath": "Silkbind - Deluge",
       "skills": [
@@ -529,7 +529,7 @@
     {
       "id": "stormbreaker_spear",
       "nameEN": "Stormbreaker Spear",
-      "nameCN": "Stormbreaker Spear",
+      "nameCN": "八方风雷枪",
       "weaponType": "spear",
       "martialPath": "Stonesplit - Might",
       "skills": [
@@ -586,7 +586,7 @@
     {
       "id": "strategic_sword",
       "nameEN": "Strategic Sword",
-      "nameCN": "Strategic Sword",
+      "nameCN": "积短九剑",
       "weaponType": "sword",
       "martialPath": "Bellstrike - Umbra",
       "skills": [
@@ -651,7 +651,7 @@
     {
       "id": "thundercry_blade",
       "nameEN": "Thundercry Blade",
-      "nameCN": "Thundercry Blade",
+      "nameCN": "噬夫刀法",
       "weaponType": "mo_blade",
       "martialPath": "Stonesplit - Might",
       "skills": [
@@ -740,7 +740,7 @@
     {
       "id": "vernal_umbrella",
       "nameEN": "Vernal Umbrella",
-      "nameCN": "Vernal Umbrella",
+      "nameCN": "九重春色",
       "weaponType": "umbrella",
       "martialPath": "Silkbind - Jade",
       "skills": [
@@ -1035,6 +1035,267 @@
       "subCategory": "support",
       "iconUrl": "/images/mystic/golden-body.png",
       "acronym": "GBo"
+    }
+  ],
+  "innerWays": [
+    {
+      "id": "echoes_of_oblivion",
+      "nameEN": "Echoes of Oblivion",
+      "nameCN": "Echoes of Oblivion",
+      "path": "Bamboocut - Wind",
+      "iconUrl": null
+    },
+    {
+      "id": "riptide_reflex",
+      "nameEN": "Riptide Reflex",
+      "nameCN": "Riptide Reflex",
+      "path": "Bamboocut - Wind",
+      "iconUrl": null
+    },
+    {
+      "id": "breaking_point",
+      "nameEN": "Breaking Point",
+      "nameCN": "Breaking Point",
+      "path": "Bamboocut - Wind",
+      "iconUrl": null
+    },
+    {
+      "id": "vendetta",
+      "nameEN": "Vendetta",
+      "nameCN": "Vendetta",
+      "path": "Bamboocut - Wind",
+      "iconUrl": null
+    },
+    {
+      "id": "sword_morph",
+      "nameEN": "Sword Morph",
+      "nameCN": "Sword Morph",
+      "path": "Bellstrike - Splendor",
+      "iconUrl": null
+    },
+    {
+      "id": "battle_anthem",
+      "nameEN": "Battle Anthem",
+      "nameCN": "Battle Anthem",
+      "path": "Bellstrike - Splendor",
+      "iconUrl": null
+    },
+    {
+      "id": "wildfire_spark",
+      "nameEN": "Wildfire Spark",
+      "nameCN": "Wildfire Spark",
+      "path": "Bellstrike - Splendor",
+      "iconUrl": null
+    },
+    {
+      "id": "mountains_might",
+      "nameEN": "Mountain's Might",
+      "nameCN": "Mountain's Might",
+      "path": "Bellstrike - Splendor",
+      "iconUrl": null
+    },
+    {
+      "id": "sword_horizon",
+      "nameEN": "Sword Horizon",
+      "nameCN": "Sword Horizon",
+      "path": "Bellstrike - Umbra",
+      "iconUrl": null
+    },
+    {
+      "id": "insightful_strike",
+      "nameEN": "Insightful Strike",
+      "nameCN": "Insightful Strike",
+      "path": "Bellstrike - Umbra",
+      "iconUrl": null
+    },
+    {
+      "id": "adaptive_steel",
+      "nameEN": "Adaptive Steel",
+      "nameCN": "Adaptive Steel",
+      "path": "Bellstrike - Umbra",
+      "iconUrl": null
+    },
+    {
+      "id": "wolfchasers_art",
+      "nameEN": "Wolfchaser's Art",
+      "nameCN": "Wolfchaser's Art",
+      "path": "Bellstrike - Umbra",
+      "iconUrl": null
+    },
+    {
+      "id": "seasonal_edge",
+      "nameEN": "Seasonal Edge",
+      "nameCN": "Seasonal Edge",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "morale_chant",
+      "nameEN": "Morale Chant",
+      "nameCN": "Morale Chant",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "divine_roulette",
+      "nameEN": "Divine Roulette",
+      "nameCN": "Divine Roulette",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "fury_harvest",
+      "nameEN": "Fury Harvest",
+      "nameCN": "Fury Harvest",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "vital_leech",
+      "nameEN": "Vital Leech",
+      "nameCN": "Vital Leech",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "bitter_seasons",
+      "nameEN": "Bitter Seasons",
+      "nameCN": "Bitter Seasons",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "envigorated_warrior",
+      "nameEN": "Envigorated Warrior",
+      "nameCN": "Envigorated Warrior",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "evasive_charge",
+      "nameEN": "Evasive Charge",
+      "nameCN": "Evasive Charge",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "fivefold_bleed",
+      "nameEN": "Fivefold Bleed",
+      "nameCN": "Fivefold Bleed",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "shadow_assault",
+      "nameEN": "Shadow Assault",
+      "nameCN": "Shadow Assault",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "steadfast_stance",
+      "nameEN": "Steadfast Stance",
+      "nameCN": "Steadfast Stance",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "evening_snow",
+      "nameEN": "Evening Snow",
+      "nameCN": "Evening Snow",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "wind_beneath_wings",
+      "nameEN": "Wind Beneath Wings",
+      "nameCN": "Wind Beneath Wings",
+      "path": "General",
+      "iconUrl": null
+    },
+    {
+      "id": "exquisite_scenery",
+      "nameEN": "Exquisite Scenery",
+      "nameCN": "Exquisite Scenery",
+      "path": "Silkbind - Deluge",
+      "iconUrl": null
+    },
+    {
+      "id": "mending_loom",
+      "nameEN": "Mending Loom",
+      "nameCN": "Mending Loom",
+      "path": "Silkbind - Deluge",
+      "iconUrl": null
+    },
+    {
+      "id": "esoteric_revival",
+      "nameEN": "Esoteric Revival",
+      "nameCN": "Esoteric Revival",
+      "path": "Silkbind - Deluge",
+      "iconUrl": null
+    },
+    {
+      "id": "restoring_blossom",
+      "nameEN": "Restoring Blossom",
+      "nameCN": "Restoring Blossom",
+      "path": "Silkbind - Deluge",
+      "iconUrl": null
+    },
+    {
+      "id": "blossom_barrage",
+      "nameEN": "Blossom Barrage",
+      "nameCN": "Blossom Barrage",
+      "path": "Silkbind - Jade",
+      "iconUrl": null
+    },
+    {
+      "id": "star_reacher",
+      "nameEN": "Star Reacher",
+      "nameCN": "Star Reacher",
+      "path": "Silkbind - Jade",
+      "iconUrl": null
+    },
+    {
+      "id": "thunderous_bloom",
+      "nameEN": "Thunderous Bloom",
+      "nameCN": "Thunderous Bloom",
+      "path": "Silkbind - Jade",
+      "iconUrl": null
+    },
+    {
+      "id": "flying_gourds",
+      "nameEN": "Flying Gourds",
+      "nameCN": "Flying Gourds",
+      "path": "Silkbind - Jade",
+      "iconUrl": null
+    },
+    {
+      "id": "royal_remedy",
+      "nameEN": "Royal Remedy",
+      "nameCN": "Royal Remedy",
+      "path": "Stonesplit - Might",
+      "iconUrl": null
+    },
+    {
+      "id": "trapped_beast",
+      "nameEN": "Trapped Beast",
+      "nameCN": "Trapped Beast",
+      "path": "Stonesplit - Might",
+      "iconUrl": null
+    },
+    {
+      "id": "art_of_resistance",
+      "nameEN": "Art of Resistance",
+      "nameCN": "Art of Resistance",
+      "path": "Stonesplit - Might",
+      "iconUrl": null
+    },
+    {
+      "id": "rock_solid",
+      "nameEN": "Rock Solid",
+      "nameCN": "Rock Solid",
+      "path": "Stonesplit - Might",
+      "iconUrl": null
     }
   ],
   "defensiveActions": [
